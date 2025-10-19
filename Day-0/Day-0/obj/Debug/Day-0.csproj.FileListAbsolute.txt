@@ -1,0 +1,7 @@
+C:\Users\otwom\Desktop\100DaysOfC#\Day-0\Day-0\bin\Debug\Day-0.exe.config
+C:\Users\otwom\Desktop\100DaysOfC#\Day-0\Day-0\bin\Debug\Day-0.exe
+C:\Users\otwom\Desktop\100DaysOfC#\Day-0\Day-0\bin\Debug\Day-0.pdb
+C:\Users\otwom\Desktop\100DaysOfC#\Day-0\Day-0\obj\Debug\Day-0.csproj.AssemblyReference.cache
+C:\Users\otwom\Desktop\100DaysOfC#\Day-0\Day-0\obj\Debug\Day-0.csproj.CoreCompileInputs.cache
+C:\Users\otwom\Desktop\100DaysOfC#\Day-0\Day-0\obj\Debug\Day-0.exe
+C:\Users\otwom\Desktop\100DaysOfC#\Day-0\Day-0\obj\Debug\Day-0.pdb
