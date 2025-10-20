@@ -109,3 +109,4 @@ ScaffoldingReadMe.txt
 # dotenv files (if used)
 .env
 .env.*
+.vs/
