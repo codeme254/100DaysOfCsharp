@@ -19,8 +19,6 @@
             // making obj1 eligible for garbage collection
             obj1 = null;
             GC.Collect();
-            GC.WaitForPendingFinalizers();
-            GC.Collect();
         }
     }
 }
