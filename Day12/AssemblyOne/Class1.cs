@@ -4,7 +4,7 @@ namespace AssemblyOne
 {
     public class AssemblyOneClass1
     {
-        private protected int Id;
+        private  int Id;
         public void Display1()
         {
             Console.WriteLine(Id);

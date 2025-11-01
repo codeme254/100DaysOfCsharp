@@ -1,5 +1,6 @@
-﻿using AssemblyOne;
+﻿
 using System;
+using AssemblyOne;
 
 namespace AccessSpecifiers
 {
@@ -11,7 +12,7 @@ namespace AccessSpecifiers
         }
     }
 
-    public class AnotherAssemblyClass1 : AssemblyOneClass1
+    public class AnotherAssemblyClass1 : AssemblyClass1
     {
         public void Display4()
         {
@@ -24,7 +25,7 @@ namespace AccessSpecifiers
         public void Display5()
         {
             AnotherAssemblyClass1 obj = new AnotherAssemblyClass1();
-            Console.WriteLine(obj.Id); // Error
+            Console.WriteLine(obj.Id);
         }
     }
 }
